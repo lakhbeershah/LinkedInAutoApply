@@ -1,7 +1,7 @@
 # Add your LinkedIn email ID and password.
 # *** WARNING: KEEP THIS CONFIG OFFLINE ON YOUR PC AND DO NOT COMMIT/UPLOAD ***
-email: buntyshah063@gmail.com
-password: Dunny987@...
+email: email@gmail.com
+password: password
 
 # Anti-lock default is False to prevent your PC from sleeping to
 # allow bot to run uninterrupted. Set it to True if you wish  to
